@@ -4,9 +4,9 @@
 <p align="left"> <a href="https://twitter.com/quaresmina" target="blank"><img src="https://img.shields.io/twitter/follow/quaresmina?logo=twitter&style=for-the-badge" alt="quaresmina" /></a> </p>
 
 - 🔭 I’m currently working on [DBServer](https://db.tec.br/)
-- 
+
 - 💻 I’m currently working with **React, React Native, Angular, Typescript, Jest, Node, NestJS**
-- 
+  
 - 🌱 I’m currently learning **Java, Spring Framework, Angular, Typescript, Javascript**
 
 - 📫 How to reach me **arielquaresma90@gmail.com**
